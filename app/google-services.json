@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843994405203",
+    "project_id": "granhelp-3916f",
+    "storage_bucket": "granhelp-3916f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843994405203:android:ef481981e48fa572a0a9a6",
+        "android_client_info": {
+          "package_name": "com.granhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843994405203-8eebo4sh1rg4p8kgdalr1u2rvi2j5k22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbx-mm_WKS6VKt146vIpTg7e7TW9DhQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843994405203-8eebo4sh1rg4p8kgdalr1u2rvi2j5k22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
